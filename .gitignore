@@ -22,3 +22,5 @@ _testmain.go
 *.exe
 *.test
 *.prof
+woo2ebay
+woo2ebay.log
